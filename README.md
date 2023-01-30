@@ -1,6 +1,19 @@
-<h1 align="center">Cifra de César - secret.me!</h1>
+<div align="center">
 
-## acesse ao projeto [aqui](https://youtube.com)
+  # Cifra de César - secret.me!
+  
+ <br>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" style="height: 30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" style="height: 30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="height: 30px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="height: 30px;"/> 
+  
+  <br>
+  
+  acesse ao projeto [aqui](https://youtube.com) 
+  
+</div>
 
 ## Índice
 
@@ -10,7 +23,7 @@
 
 ## 📌 Objetivo
 
-<p align="justify">A Cifra de César foi o primeiro projeto desenvolvido para o Bootcamp da Laboratória (9ª turma) e teve como objetivo o desenvolvimento de uma aplicação que permita ao usuário cifrar e decifrar uma mensagem no navegador. Para tanto, foi desenvolvida uma interface em que crianças e adolescentes podem trocar segredos e mensagens pessoais, registrando-as como uma espécie de diário virtual, onde só é possível decifrá-lo com a chave certa (número de deslocamento escolhio).</p>  
+<p align="justify">A Cifra de César foi o primeiro projeto desenvolvido para o Bootcamp da Laboratória (9ª turma) e teve como objetivo criar uma aplicação que permita ao usuário cifrar e decifrar uma mensagem no navegador. Para tanto, foi desenvolvida uma interface em que adolescentes podem trocar segredos e mensagens pessoais, registrando-as como uma espécie de diário virtual, onde só é possível decifrá-lo com a chave correta (número de deslocamento escolhido).</p>  
 
 ## ⚙️ Funcionalidade
 
@@ -18,7 +31,7 @@
 
 ## 💻 Interface
 
- <p align="justify">O projeto possui uma interface minimalista e objetiva para facilitar o seu uso. No topo há o nome da aplicação com uma breve informaçõe sobre a sua utilidade e logo em seguida os espaços para a mensagem possa ser criptografada e descriptografada, com mudanças de cor ao passar o cursor do mouse:</p> 
+ <p align="justify">O projeto possui uma interface minimalista e objetiva para facilitar o seu uso. No topo há o nome da aplicação com uma breve informação sobre a sua utilidade e logo em seguida os espaços para que a mensagem possa ser criptografada e descriptografada, com mudança de cor ao passar o cursor do mouse:</p> 
  
  <img src="https://raw.githubusercontent.com/andraderika/SAP009-cipher/main/s1.png">
 

@@ -1,14 +1,12 @@
 <h1 align="center">Cifra de César - secret.me!</h1>
 
-acesse ao projeto [aqui](https://youtube.com)
+## acesse ao projeto [aqui](https://youtube.com)
 
 ## Índice
 
 * [1. Objetivo](#1-objetivo) 📌
 * [2. Funcionalidade](#2-funcionalidade) ⚙️
 * [3. Interface](#3-interface) 💻
-
-***
 
 ## 📌 Objetivo
 
@@ -24,7 +22,7 @@ acesse ao projeto [aqui](https://youtube.com)
  
  <img src="https://raw.githubusercontent.com/andraderika/SAP009-cipher/main/s1.png">
 
-## Autoria
+## 👩‍💻 Autoria
 
 Erika Oliveira
 

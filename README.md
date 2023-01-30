@@ -1,6 +1,6 @@
 <h1 align="center">Cifra de César - secret.me!</h1>
 
-<h3 align="center">acesse ao projeto [aqui](https://youtube.com)</h3>
+acesse ao projeto [aqui](https://youtube.com)
 
 ## Índice
 
@@ -8,8 +8,8 @@
 * [2. Funcionalidade](#2-funcionalidade) ⚙️
 * [3. Interface](#3-interface) 💻
 
-**
-</h1> 
+***
+
 ## 📌 Objetivo
 
 <p align="justify">A Cifra de César foi o primeiro projeto desenvolvido para o Bootcamp da Laboratória (9ª turma) e teve como objetivo o desenvolvimento de uma aplicação que permita ao usuário cifrar e decifrar uma mensagem no navegador. Para tanto, foi desenvolvida uma interface em que crianças e adolescentes podem trocar segredos e mensagens pessoais, registrando-as como uma espécie de diário virtual, onde só é possível decifrá-lo com a chave certa (número de deslocamento escolhio).</p>  
@@ -24,4 +24,7 @@
  
  <img src="https://raw.githubusercontent.com/andraderika/SAP009-cipher/main/s1.png">
 
+## Autoria
+
+Erika Oliveira
 

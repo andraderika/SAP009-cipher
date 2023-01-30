@@ -13,7 +13,6 @@ function acaoEncode(){
   message02.value = cipher.encode(parseInt(key.value), message01.value);
 }
 
-
 function acaoDecode(){
   message02.value = cipher.decode(parseInt(key.value), message01.value);
 }

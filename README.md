@@ -37,6 +37,12 @@
  
  <img src="https://raw.githubusercontent.com/andraderika/SAP009-cipher/main/s1.png">
 
+ <p align="justify">Além disso, é emitido um alerta caso a pessoa esqueça de prenecher o campo da chave secreta ou da mensagem:</p>
+
+<img src="">
+
+<img src="">
+
 ## 👩‍💻 Autoria
 
 Erika Oliveira

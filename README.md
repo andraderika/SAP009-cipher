@@ -25,7 +25,7 @@
 
 ## 📌 Objetivo
 
-<p align="justify">A Cifra de César foi o primeiro projeto desenvolvido para o Bootcamp da Laboratória (9ª turma) e teve como objetivo criar uma aplicação que permita ao usuário cifrar e decifrar uma mensagem no navegador. Para tanto, foi desenvolvida uma interface em que adolescentes podem trocar segredos e mensagens pessoais, registrando-as como uma espécie de diário virtual, onde só é possível decifrá-lo com a chave correta (número de deslocamento escolhido).</p>  
+<p align="justify">A Cifra de César foi o primeiro projeto desenvolvido para o Bootcamp da Laboratória (9ª turma) e teve como objetivo criar uma aplicação que permita ao usuário cifrar e decifrar uma mensagem. Para tanto, foi desenvolvida uma interface em que adolescentes podem trocar segredos e mensagens pessoais, registrando-as como uma espécie de diário virtual, onde só é possível decifrá-la com a chave correta (número de deslocamento escolhido).</p>  
 
 ## ⚙️ Funcionalidade
 
@@ -39,9 +39,9 @@
 
  <p align="justify">Além disso, é emitido um alerta caso a pessoa esqueça de prenecher o campo da chave secreta ou da mensagem:</p>
 
-<img src="">
+<img src="https://raw.githubusercontent.com/andraderika/SAP009-cipher/main/img/tela%20de%20alerta%20p%20chave.png">
 
-<img src="">
+<img src="https://raw.githubusercontent.com/andraderika/SAP009-cipher/main/img/tela%20de%20alerta%20p%20msg.png">
 
 ## 👩‍💻 Autoria
 

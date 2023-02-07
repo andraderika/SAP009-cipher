@@ -33,11 +33,9 @@
 
 ## 💻 Interface
 
- <p align="justify">O projeto possui uma interface minimalista e objetiva para facilitar o seu uso. No topo há o nome da aplicação com uma breve informação sobre a sua utilidade e logo em seguida os espaços para que a mensagem possa ser criptografada e descriptografada, com mudança de cor ao passar o cursor do mouse:</p> 
+ <p align="justify">O projeto possui uma interface minimalista e objetiva para facilitar o seu uso. No topo há o nome da aplicação com uma breve informação sobre a sua utilidade e logo em seguida os espaços para que a mensagem possa ser criptografada e descriptografada, com mudança de cor ao passar o cursor do mouse. Além disso, é emitido um alerta caso a pessoa esqueça de prenecher o campo da chave secreta ou da mensagem:</p> 
  
- <img src="https://raw.githubusercontent.com/andraderika/SAP009-cipher/main/s1.png">
-
- <p align="justify">Além disso, é emitido um alerta caso a pessoa esqueça de prenecher o campo da chave secreta ou da mensagem:</p>
+<img src="https://raw.githubusercontent.com/andraderika/SAP009-cipher/main/s1.png">
 
 <img src="https://raw.githubusercontent.com/andraderika/SAP009-cipher/main/img/tela%20de%20alerta%20p%20chave.png">
 

@@ -10,9 +10,12 @@ btnEncode.addEventListener("click", acaoEncode);
 btnDecode.addEventListener("click", acaoDecode);
 
 function acaoEncode(){
+  if(message01.value === "" || key.value === ""){
+    alert("Por favor, verifique se os campos de mensagem e/ou chave secreta foram preenchidos.");
+  }
   message02.value = cipher.encode(parseInt(key.value), message01.value);
 }
 
 function acaoDecode(){
-  message02.value = cipher.decode(parseInt(key.value), message01.value);
+  message01.value = cipher.decode(parseInt(key.value), message02.value);
 }
